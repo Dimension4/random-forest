@@ -1,0 +1,11 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction to machine learning}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Learning types}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Supervised learning}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Unsupervised learning}{section.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.3}{Semi-supervised learning}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.4}{Reinforcement learning}{section.1.1}% 6
+\BOOKMARK [1][-]{section.1.2}{Classification and regression}{chapter.1}% 7
+\BOOKMARK [0][-]{chapter.2}{Decision Tree}{}% 8
+\BOOKMARK [1][-]{section.2.1}{Building a decision tree}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.1.1}{Information theory}{section.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.1.2}{ID3}{section.2.1}% 11

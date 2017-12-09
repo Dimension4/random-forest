@@ -1,0 +1,68 @@
+\begin{thebibliography}{10}
+
+\bibitem{mitchell97}
+T.~M. Mitchell, {\em Machine Learning}.
+\newblock March 1997.
+
+\bibitem{alphago}
+``Alphago.''
+\newblock \url{https://deepmind.com/research/alphago/}.
+
+\bibitem{go}
+Wikipedia, ``Go (game) --- wikipedia{,} the free encyclopedia,'' 2017.
+\newblock
+  \url{https://en.wikipedia.org/w/index.php?title=Go_(game)&oldid=808897978}.
+
+\bibitem{supervised-learning}
+Wikipedia, ``Supervised learning --- wikipedia{,} the free encyclopedia,''
+  2017.
+\newblock
+  \url{https://en.wikipedia.org/w/index.php?title=Supervised_learning&oldid=809538176}.
+
+\bibitem{mnist}
+C.~B. Yann~LeCun, Corinna~Cortes, ``The mnist database.''
+\newblock \url{http://yann.lecun.com/exdb/mnist/}.
+
+\bibitem{unsupervised-learning}
+Wikipedia, ``Unsupervised learning --- wikipedia{,} the free encyclopedia,''
+  2017.
+\newblock
+  \url{https://en.wikipedia.org/w/index.php?title=Unsupervised_learning&oldid=806744572}.
+
+\bibitem{semi-supervised-learning}
+Wikipedia, ``Semi-supervised learning --- wikipedia{,} the free encyclopedia,''
+  2017.
+\newblock
+  \url{https://en.wikipedia.org/w/index.php?title=Semi-supervised_learning&oldid=811431152}.
+
+\bibitem{reinforcement-learning}
+Wikipedia, ``Reinforcement learning --- wikipedia{,} the free encyclopedia,''
+  2017.
+\newblock
+  \url{https://en.wikipedia.org/w/index.php?title=Reinforcement_learning&oldid=810477823}.
+
+\bibitem{reinforcement-learning-silver15}
+D.~Silver, ``Rl course by david silver - lecture 1: Introduction to
+  reinforcement learning,'' 2015.
+\newblock \url{https://www.youtube.com/watch?v=2pWv7GOvuf0}.
+
+\bibitem{class-and-regr}
+E.~Cai, ``Machine learning lesson of the day – supervised learning:
+  Classification and regression,'' 2014.
+\newblock
+  \url{https://chemicalstatistician.wordpress.com/2014/01/05/machine-learning-lesson-of-the-day-classification-and-regression/}.
+
+\bibitem{ms11}
+A.~Criminisi, E.~Konukoglu, and J.~Shotton, ``Decision forests for
+  classification, regression, density estimation, manifold learning and
+  semi-supervised learning,'' tech. rep., October 2011.
+\newblock
+  \url{https://www.microsoft.com/en-us/research/publication/decision-forests-for-classification-regression-density-estimation-manifold-learning-and-semi-supervised-learning/}.
+
+\bibitem{log-complexity}
+Wikipedia, ``Computational complexity of mathematical operations ---
+  wikipedia{,} the free encyclopedia,'' 2017.
+\newblock
+  \url{https://en.wikipedia.org/w/index.php?title=Computational_complexity_of_mathematical_operations&oldid=808200458}.
+
+\end{thebibliography}
